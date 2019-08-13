@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using HoW___back.Models;
+using how.Models;
 
-namespace HoW___back.Controllers
+namespace how.Controllers
 {
     public class HomeController : Controller
     {
@@ -38,6 +38,11 @@ namespace HoW___back.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        public JsonResult GetJson()
+        {
+            return Json(new UserModel() { Name = "Dima", Login = "Koous" });
         }
     }
 }
