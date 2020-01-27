@@ -1,3 +1,7 @@
-C:\Git\HoW-UE\UE4-client\Source\HoW\HoWCharacter.h
-C:\Git\HoW-UE\UE4-client\Source\HoW\HoWGameMode.h
-C:\Git\HoW-UE\UE4-client\Source\HoW\HoWPlayerController.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu\GM_MenuC.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu\PC_MenuC.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu\HUD_MenuC.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu\GS_MenuC.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\GI_MainC.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu\PS_MenuC.h
+C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu\GSG_MenuC.h

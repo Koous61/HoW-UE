@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\HoW.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7CBC65AC-BC9E-4E1E-A52E-4781A1CFCDFF}</UniqueIdentifier>
+      <UniqueIdentifier>{1BDD9A43-D137-406D-B0CF-0DE9142ABAEE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HoW.Target.cs">
       <Filter>Source</Filter>
@@ -13,7 +13,7 @@
     </None>
     <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{ACCEA01F-33CA-4D88-B4C4-8244DF3CEFCF}</UniqueIdentifier>
+      <UniqueIdentifier>{1576FAD6-FEA1-4585-82B2-5784B76D11E4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -31,7 +31,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\HoW">
-      <UniqueIdentifier>{20B7E779-13C4-4F13-BEAC-4886C9E0B22B}</UniqueIdentifier>
+      <UniqueIdentifier>{A657F467-2BBD-475B-B872-A8533344F852}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\HoW\HoW.Build.cs">
       <Filter>Source\HoW</Filter>
@@ -42,23 +42,63 @@
     <ClInclude Include="..\..\Source\HoW\HoW.h">
       <Filter>Source\HoW</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\HoW\HoWCharacter.cpp">
-      <Filter>Source\HoW</Filter>
+    <Filter Include="Source\HoW\Private">
+      <UniqueIdentifier>{0BB5842D-0740-46A4-8657-38923969211E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HoW\Private\GI_MainC.cpp">
+      <Filter>Source\HoW\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\HoW\HoWCharacter.h">
-      <Filter>Source\HoW</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\HoW\HoWGameMode.cpp">
-      <Filter>Source\HoW</Filter>
+    <Filter Include="Source\HoW\Private\Menu">
+      <UniqueIdentifier>{059FAD81-1F31-4590-9092-219390ADF415}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HoW\Private\Menu\GM_MenuC.cpp">
+      <Filter>Source\HoW\Private\Menu</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\HoW\HoWGameMode.h">
-      <Filter>Source\HoW</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\HoW\HoWPlayerController.cpp">
-      <Filter>Source\HoW</Filter>
+    <ClCompile Include="..\..\Source\HoW\Private\Menu\PC_MenuC.cpp">
+      <Filter>Source\HoW\Private\Menu</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\HoW\HoWPlayerController.h">
-      <Filter>Source\HoW</Filter>
+    <Filter Include="Source\HoW\Public">
+      <UniqueIdentifier>{73473E90-2557-4019-9D00-42B458E7E9F4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\HoW\Public\GI_MainC.h">
+      <Filter>Source\HoW\Public</Filter>
     </ClInclude>
+    <Filter Include="Source\HoW\Public\Menu">
+      <UniqueIdentifier>{3434662A-A026-4560-A44F-D23FE8D2256A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\HoW\Public\Menu\GM_MenuC.h">
+      <Filter>Source\HoW\Public\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HoW\Public\Menu\PC_MenuC.h">
+      <Filter>Source\HoW\Public\Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\HoW\Public\Menu\HUD_MenuC.h">
+      <Filter>Source\HoW\Public\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HoW\Public\Menu\PS_MenuC.h">
+      <Filter>Source\HoW\Public\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HoW\Public\Menu\GS_MenuC.h">
+      <Filter>Source\HoW\Public\Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HoW\Public\Menu\GSG_MenuC.h">
+      <Filter>Source\HoW\Public\Menu</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\HoW\Private\Menu\HUD_MenuC.cpp">
+      <Filter>Source\HoW\Private\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HoW\Private\Menu\PS_MenuC.cpp">
+      <Filter>Source\HoW\Private\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HoW\Private\Menu\GS_MenuC.cpp">
+      <Filter>Source\HoW\Private\Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HoW\Private\Menu\GSG_MenuC.cpp">
+      <Filter>Source\HoW\Private\Menu</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
