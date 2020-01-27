@@ -529,6 +529,7 @@
 /I C:\Git\HoW-UE\UE4-client\Source
 /I C:\Git\HoW-UE\UE4-client\Source\HoW\Public
 /I C:\Git\HoW-UE\UE4-client\Source\HoW
+/I C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Manager
 /I C:\Git\HoW-UE\UE4-client\Source\HoW\Public\Menu
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public

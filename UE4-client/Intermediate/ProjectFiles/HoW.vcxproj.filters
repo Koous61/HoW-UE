@@ -86,6 +86,12 @@
     <ClInclude Include="..\..\Source\HoW\Public\Menu\GSG_MenuC.h">
       <Filter>Source\HoW\Public\Menu</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\HoW\Public\SG_Main.h">
+      <Filter>Source\HoW\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HoW\Public\Manager\AvatarManager.h">
+      <Filter>Source\HoW\Public\Manager</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\HoW\Private\Menu\HUD_MenuC.cpp">
@@ -100,5 +106,19 @@
     <ClCompile Include="..\..\Source\HoW\Private\Menu\GSG_MenuC.cpp">
       <Filter>Source\HoW\Private\Menu</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\HoW\Private\SG_Main.cpp">
+      <Filter>Source\HoW\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HoW\Private\Manager\AvatarManager.cpp">
+      <Filter>Source\HoW\Private\Manager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\HoW\Public\Manager">
+      <UniqueIdentifier>{0f798a26-78fa-4092-a743-bee9314c2ea7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\HoW\Private\Manager">
+      <UniqueIdentifier>{5452fb33-285c-4071-9071-5d57686e403c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>

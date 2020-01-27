@@ -265,12 +265,16 @@
     <NMakeOutput>..\..\Binaries\Win64\HoW-Win64-Shipping.exe</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\HoW\Private\Manager\AvatarManager.cpp" />
     <ClCompile Include="..\..\Source\HoW\Private\Menu\GSG_MenuC.cpp" />
     <ClCompile Include="..\..\Source\HoW\Private\Menu\GS_MenuC.cpp" />
     <ClCompile Include="..\..\Source\HoW\Private\Menu\PS_MenuC.cpp" />
+    <ClCompile Include="..\..\Source\HoW\Private\SG_Main.cpp" />
+    <ClInclude Include="..\..\Source\HoW\Public\Manager\AvatarManager.h" />
     <ClInclude Include="..\..\Source\HoW\Public\Menu\GSG_MenuC.h" />
     <ClInclude Include="..\..\Source\HoW\Public\Menu\GS_MenuC.h" />
     <ClInclude Include="..\..\Source\HoW\Public\Menu\PS_MenuC.h" />
+    <ClInclude Include="..\..\Source\HoW\Public\SG_Main.h" />
     <None Include="..\..\HoW.uproject" />
     <None Include="..\..\Source\HoW.Target.cs" />
     <None Include="..\..\Source\HoWEditor.Target.cs" />

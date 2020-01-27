@@ -1,5 +1,0 @@
-C:\Git\HoW-UE\UE4-client\Intermediate\Build\Win64\UE4Editor\Development\HoW\Definitions.HoW.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Git\HoW-UE\UE4-client\Source\HoW/HoWPlayerController.h
-c:\git\how-ue\ue4-client\intermediate\build\win64\ue4editor\inc\how\HoWPlayerController.generated.h
