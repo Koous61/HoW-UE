@@ -1,9 +1,0 @@
-D:\Git\HoW\Intermediate\Build\Win64\UE4Editor\Development\HoW\Definitions.HoW.h
-D:\Program Files\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Git\HoW\Source\HoW/HoWGameMode.h
-D:\Program Files\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Program Files\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Program Files\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Program Files\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Git\HoW\Intermediate\Build\Win64\UE4Editor\Inc\HoW\HoWGameMode.generated.h

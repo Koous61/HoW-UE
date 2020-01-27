@@ -1,2 +1,0 @@
-D:\Git\HoW\Intermediate\Build\Win64\UE4Editor\Development\HoW\Definitions.HoW.h
-D:\Git\HoW\Source\HoW\HoW.h

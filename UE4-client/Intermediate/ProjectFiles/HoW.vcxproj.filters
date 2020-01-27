@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HoW.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7CBC65AC-BC9E-4E1E-A52E-4781A1CFCDFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HoW.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HoWEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{ACCEA01F-33CA-4D88-B4C4-8244DF3CEFCF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HoW">
+      <UniqueIdentifier>{20B7E779-13C4-4F13-BEAC-4886C9E0B22B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HoW\HoW.Build.cs">
+      <Filter>Source\HoW</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HoW\HoW.cpp">
+      <Filter>Source\HoW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoW\HoW.h">
+      <Filter>Source\HoW</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HoW\HoWCharacter.cpp">
+      <Filter>Source\HoW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoW\HoWCharacter.h">
+      <Filter>Source\HoW</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HoW\HoWGameMode.cpp">
+      <Filter>Source\HoW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoW\HoWGameMode.h">
+      <Filter>Source\HoW</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HoW\HoWPlayerController.cpp">
+      <Filter>Source\HoW</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HoW\HoWPlayerController.h">
+      <Filter>Source\HoW</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
