@@ -1,3 +1,0 @@
-D:\Git\HoW\Source\HoW\HoW.Build.cs
-D:\Git\HoW\Source\HoW.Target.cs
-D:\Git\HoW\Source\HoWEditor.Target.cs

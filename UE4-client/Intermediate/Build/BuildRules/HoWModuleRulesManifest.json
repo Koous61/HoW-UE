@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Git\\HoW-UE\\UE4-client\\Source\\HoW\\HoW.Build.cs",
-		"C:\\Git\\HoW-UE\\UE4-client\\Source\\HoW.Target.cs",
-		"C:\\Git\\HoW-UE\\UE4-client\\Source\\HoWEditor.Target.cs"
-	],
-	"EngineVersion": "4.24.1"
-}
